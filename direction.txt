@@ -1,0 +1,74 @@
+abrité sous
+abritée par
+au côté <point cardinal>
+au <point cardinal>
+au <point cardinal> de
+au <point cardinal> des
+au <point cardinal> du
+au <point cardinal> d'
+dans l'<point cardinal>
+dans l'<point cardinal> de
+dans l'<point cardinal> des
+dans l'<point cardinal> du
+dans l'<point cardinal> d'
+dans la partie <point cardinal> de
+dans la partie <point cardinal> des
+dans la partie <point cardinal> du
+dans la partie <point cardinal> d'
+dans le <point cardinal>
+dans le <point cardinal> de
+
+dans sa partie <point cardinal>
+devant
+du côté de
+du côté sud
+en amont
+en amont de
+en amont du
+en arrière desquels
+en arrière-plan
+en aval
+en aval de
+en aval du
+en contrebas d'
+en contrebas de
+en remontant
+en venant de l'<point cardinal>
+face à
+immédiatement au <point cardinal> de
+juste en amont de
+juste en aval de
+juste à l'<point cardinal> du
+laissant dans l'<point cardinal>
+<point cardinal>
+plus au <point cardinal>
+plus en amont
+plus en aval
+plus loin dans l'<point cardinal>
+plus à l'<point cardinal>
+plus à l'<point cardinal> des
+protège
+protégeant
+protégé par
+<point cardinal> du
+vers
+vers l'<point cardinal>
+à \d+°
+à droite
+à gauche
+à gauche de
+à gauche du
+à hauteur de
+à l'abri d'
+à l'abri des
+à l'abri du
+à l'amont de
+à l'arrière-plan
+à l'aval de
+à l'<point cardinal>
+à l'<point cardinal> de
+à l'<point cardinal> du
+à l'entrée de
+à l'<point cardinal> du
+à l'<point cardinal> d'
+à la hauteur de

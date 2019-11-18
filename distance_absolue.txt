@@ -1,0 +1,15 @@
+\d+ m du
+entre \d+ et \d+ m de
+jusqu'à \d+ m
+jusqu'à près d'un mille du
+à \d+ m
+à \d+ environ
+à \d+ m seulement
+à \d+ km
+à \d+ km de
+à environ \d+ m
+à environ \d+ m de
+à moins de \d+ à \d+ m de
+à moins de \d+ m
+à moins de \d+ m de
+à une dizaine de milles du

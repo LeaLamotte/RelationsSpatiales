@@ -1,0 +1,49 @@
+au <point cardinal>
+dans l'axe de
+du <point cardinal> au <point cardinal>
+en direction du <point cardinal>
+en direction <point cardinal>
+en sens inverse
+en travers de
+en venant de l'<point cardinal>
+est donc constamment <point cardinal>
+est orienté à \d+° - \d+°
+est parallèle au
+est perpendiculaire au
+fait suite aux
+<point cardinal>
+obliques
+orienté au <point cardinal>
+orienté à \d+°
+orientée <point cardinal>-<point cardinal>
+orientée à \d+° - \d+°
+orientées vers le <point cardinal>
+ouvert au <point cardinal>
+ouverte au <point cardinal>
+parallèlement au
+parallèlement à
+perpendiculaire à
+perpendiculaires à
+portant au <point cardinal>
+portant à \d+°
+portant à l'<point cardinal> ou à l'<point cardinal>
+portant à terre
+porte
+porte <point cardinal>
+porte de
+porte en
+porte à l'<point cardinal>
+portent violemment sur
+porter à l'<point cardinal>
+prend au <point cardinal>
+qui porte au sud
+qui porte franchement sur
+s'ouvre au <point cardinal>
+s'étend du <point cardinal> au <point cardinal>
+sur
+tournée vers
+vers
+vers l'<point cardinal>
+à \d+° - \d+°
+à \d+°
+à l'<point cardinal>
